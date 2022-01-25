@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+
+# Mac things
+.DS_Store
+
+# PyCharm things
+.idea/
